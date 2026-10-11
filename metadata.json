@@ -1,0 +1,6 @@
+{
+  "name": "ConnectBank AI",
+  "description": "Intelligent simulated banking platform powered by multi-agent supervisor orchestration, fraud detection, credit advisory, compliance analysis, and policy RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
