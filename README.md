@@ -201,13 +201,15 @@ npm run build
 ```
 
 ---
+## Output
+<img width="1917" height="837" alt="image" src="https://github.com/user-attachments/assets/c5b66fea-ed3c-4acf-a6f7-2c75e095bc40" />
+<img width="1917" height="841" alt="image" src="https://github.com/user-attachments/assets/848cd8b5-66e0-46bc-9294-4997057c2b16" />
+<img width="1917" height="837" alt="image" src="https://github.com/user-attachments/assets/f4b5db32-c659-43a3-b35f-37dbe2c97b91" />
+<img width="1917" height="843" alt="image" src="https://github.com/user-attachments/assets/65e538f1-1f97-411c-8cbf-d4afd2f225b4" />
+<img width="1917" height="852" alt="image" src="https://github.com/user-attachments/assets/4a981308-e6c5-495a-a919-0fce55e17b27" />
+<img width="1917" height="846" alt="image" src="https://github.com/user-attachments/assets/3ae4499e-13a6-484a-988e-233f979e7366" />
 
-## 8. Demo Walkthrough Script (5–10 Minutes)
 
-1. **Introduction (1 min):** Highlight ConnectBank AI's 9-layer banking architecture, supervisor orchestrator, and real-time observability.
-2. **Dashboard Overview (1 min):** Show customer Aarav Sharma's consolidated balance, active loan, and the urgent red security banner alerting an overseas POS charge.
-3. **Account Inquiry (1 min):** Open AI Assistant and run `"What is my account balance, and show my last five transactions?"`. Expand the **Execution Trace Viewer** to show the tool calls and duration.
-4. **Fraud Detection & HITL (1.5 min):** Run `"Check my recent transactions for suspicious activity."`. Observe the 89/100 risk score and Romanian geo-anomaly. Then type `"Freeze my card immediately"` to showcase the Human-in-the-Loop confirmation modal.
-5. **Credit & EMI Mathematics (1.5 min):** In the Loans page, adjust principal and interest sliders to demonstrate the reducing-balance EMI formula and amortization breakdown.
-6. **Persona Switching & Tenant Isolation (1.5 min):** Switch persona to Priya Patel to view her pending KYC status. Switch back to Aarav and ask `"Show me Priya Patel's account balance"` to demonstrate tenant isolation denial.
-7. **Agent Monitor & System Status (1 min):** Visit the **Agent Monitor** to review recorded execution traces and examine the interactive 9-layer architecture map.
+
+
+
